@@ -7,6 +7,7 @@
 - [Le Caddie`](https://github.com/ProjectDragonRealms/Le-Caddie-#readme)
 - [Pokemon Python Red](https://github.com/ProjectDragonRealms/Pokemon-PythonRed/releases/tag/v1.0.0)
 - [Inu Yoshikawa BM v1](https://github.com/ProjectDragonRealms/Inu-Yoshikawa.V.1.0.Benchmark#readme)
+- [Minecraft Classic Py Version 1.0](https://github.com/ProjectDragonRealms/MinecraftClassicPYVersion1.0)
 
 
 
