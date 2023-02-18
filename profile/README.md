@@ -1,7 +1,8 @@
 <h1 align="center">Dragon Realms</h1>
 
 
-ᴅʀᴀɢᴏɴ ʀᴇᴀʟᴍꜱ ɪꜱ ᴀ ɢᴀᴍᴇ ᴀɴᴅ ꜱᴏꜰᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ᴏʀɢᴀɴɪꜱᴀᴛɪᴏɴ. ꜰᴏᴜɴᴅᴇᴅ ɪɴ 2ɴᴅ ɴᴏᴠᴇᴍʙᴇʀ 2020 ʙʏ [Ravanger101.](https://github.com/Ravanger101) ᴡᴇ ᴀʀᴇ ʜᴇʀᴇ ᴛᴏ ᴅᴇᴠᴇʟᴏᴘ ᴛʜᴇ ʙᴇꜱᴛ ᴏꜰ ʙᴇꜱᴛ ᴀᴘᴘʟɪᴄᴀᴛɪᴏɴꜱ ꜰᴏʀ ᴛʜᴇ ᴄᴏᴍᴍᴜɴɪᴛʏ ᴡɪᴛʜ ᴛʜᴇ ʜᴇʟᴘ ᴏꜰ ᴄᴏᴍᴍᴜɴɪᴛʏ. ᴇᴠᴇʀʏᴏɴᴇ ɪꜱ ꜰʀᴇᴇ ᴛᴏ ᴄᴏɴᴛʀɪʙᴜᴛᴇ ᴀɴᴅ ᴡᴏʀᴋ ᴏɴ ᴀ ᴘʀᴏᴊᴇᴄᴛ!
+Dragon Realms is a Game and software Development Organisation. Founded on 2nd November 2020 by [Ravanger101.](https://github.com/Ravanger101) We are here to
+develop the best of best Applications for the Community with the help of Community. Everyone is free to contribute and work on a Project!
 
 ## Popular Projects:
 - [Le Caddie`](https://github.com/ProjectDragonRealms/Le-Caddie-#readme)
