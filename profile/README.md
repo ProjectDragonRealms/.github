@@ -10,7 +10,7 @@ develop the best of best Applications for the Community with the help of Communi
 - [Inu Yoshikawa BM v1](https://github.com/ProjectDragonRealms/Inu-Yoshikawa.V.1.0.Benchmark#readme)
 - [Minecraft Classic Py Version 1.0](https://github.com/ProjectDragonRealms/MinecraftClassicPYVersion1.0)
 
-## [Discussions](https://github.com/ProjectDragonRealms/Discussions/discussion)
+## [Discussions](https://github.com/orgs/ProjectDragonRealms/discussions)
 
 
 
