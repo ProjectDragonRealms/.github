@@ -11,7 +11,7 @@ develop the best of best Applications for the Community with the help of Communi
 - [Minecraft Classic Py Version 1.0](https://github.com/ProjectDragonRealms/MinecraftClassicPYVersion1.0)
 
 ## Some Regulations:
-- You are not allowed to Own the projects which are made by released by Realms.
+- You are not allowed to Own the projects which are released by Realms.
 - You are free to edit and work on the projects.
 - Misuse of these Softwares will not be tolerated.
 - You are only allowed to use personally owned images or videos. (Videos via embeds).
