@@ -1,7 +1,7 @@
 <h1 align="center">Dragon Realms</h1>
 
 
-Dragon Realms is a Game and software Development Organisation. Founded on 2nd November 2020 by [Ravanger101.](https://github.com/Ravanger101) We are here to
+Dragon Realms or Realms is a Game and software Development Organisation. Founded on 2nd November 2020 by [Ravanger101.](https://github.com/Ravanger101) We are here to
 develop the best of best Applications for the Community with the help of Community. Everyone is free to contribute and work on a Project!
 
 ## Popular Projects:
