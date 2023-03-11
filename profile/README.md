@@ -1,4 +1,10 @@
-<h1 align="center">Dragon Realms</h1>
+<h1 align="center">
+  <br>
+  <a href="https://github.com/ProjectDragonRealms"><img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Realms" width="200"></a>
+  <br>
+  Dragon Realms
+  <br>
+</h1>
 
 
 Dragon Realms also known as Realms is a Game and software Development Organisation. Founded on 2nd November 2020 by [Ravanger101.](https://github.com/Ravanger101) We are here to
