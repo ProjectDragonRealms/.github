@@ -1,4 +1,4 @@
-![](Banner.jpeg)
+![](Banner.jpg)
 
 
 <h1 align="center">
