@@ -16,12 +16,6 @@ develop the best of best Applications for the Community with the help of Communi
 - [Inu Yoshikawa BM v1](https://github.com/ProjectDragonRealms/Inu-Yoshikawa.V.1.0.Benchmark#readme)
 - [Minecraft Classic Py Version 1.0](https://github.com/ProjectDragonRealms/MinecraftClassicPYVersion1.0)
 
-## Some Regulations:
-- You are not allowed to Own the projects which are released by Realms.
-- You are free to edit and work on the projects.
-- Misuse of these Softwares will not be tolerated.
-- You are encouraged to start with new repository, if you feel particular important.
-- Make sure to test all the Softwares and good luck with Coding Developers!
 
 ## [Discussions](https://github.com/orgs/ProjectDragonRealms/discussions)
 @ Copyright [Ravanger101](https://github.com/Ravanger101)
