@@ -14,7 +14,6 @@ develop the best of best Applications for the Community with the help of Communi
 - You are not allowed to Own the projects which are released by Realms.
 - You are free to edit and work on the projects.
 - Misuse of these Softwares will not be tolerated.
-- You are only allowed to use personally owned images or videos. (Videos via embeds).
 - You are encouraged to start with new repository, if you feel particular important.
 - Make sure to test all the Softwares and good luck with Coding Developers!
 
