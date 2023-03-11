@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="./profile/Banner.jpg" alt="Realms" width="200"></a>
+  <img src="./Banner.jpg" alt="Realms" width="200"></a>
   <br>
   Dragon Realms
   <br>
