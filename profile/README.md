@@ -1,6 +1,5 @@
 ![](Banner.jpg)
 
-
 <h1 align="center">
   Dragon Realms
   <br>
