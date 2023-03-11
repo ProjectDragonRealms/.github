@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/ProjectDragonRealms"><img src="" alt="Realms" width="200"></a>
+  <a href="https://github.com/ProjectDragonRealms"><img src="Logo.jfif" alt="Realms" width="200"></a>
   <br>
   Dragon Realms
   <br>
