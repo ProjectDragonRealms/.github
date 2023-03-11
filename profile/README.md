@@ -4,9 +4,6 @@
   Dragon Realms
   <br>
 </h1>
-
-
-
 Dragon Realms also known as Realms is a Game and software Development Organisation. Founded on 2nd November 2020 by [Ravanger101.](https://github.com/Ravanger101) We are here to
 develop the best of best Applications for the Community with the help of Community. Everyone is free to contribute and work on a Project!
 
